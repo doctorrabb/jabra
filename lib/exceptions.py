@@ -1,0 +1,2 @@
+class JabberAuthException (Exception):
+	pass

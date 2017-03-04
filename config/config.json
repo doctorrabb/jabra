@@ -1,0 +1,10 @@
+{
+	"databases_root": "data/db",
+	"api_num_url": "lol",
+	"api_key": "null",
+	"use_autoreg": false,
+	"default_dbfile_prefix": "db_",
+	"content_file": "data/spam.txt",
+	"default_creds_file": "config/creds.json",
+	"prompt_screen_file": "data/prompt.txt"
+}
